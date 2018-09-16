@@ -11,10 +11,10 @@ class App extends Component {
 
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" >Link 1</a>
+      <a class="nav-link" >Home</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" >Link 2</a>
+      <a class="nav-link" >Build</a>
     </li>
   </ul>
 </nav>
